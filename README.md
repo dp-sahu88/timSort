@@ -1,5 +1,5 @@
 # timSort
-Modify algorithm of insertion sort so that   its running time is O(n log n)
+# Modify algorithm of insertion sort so that   its running time is O(n log n)........
  
 This algorithm is used in java and python  for sorting
 
